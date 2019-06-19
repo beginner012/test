@@ -7,6 +7,7 @@ public class Main {
 
         System.out.println("增加一个输出");
 
+        int a=100;
 
     }
 }
