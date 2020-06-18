@@ -9,7 +9,7 @@ public class Main {
 
         System.out.println("增加一个输出");
 
-        String time = "20200618";
+        String time = "20200618-mac";
 
     }
 }
