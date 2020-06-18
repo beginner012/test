@@ -9,9 +9,7 @@ public class Main {
 
         System.out.println("增加一个输出");
 
-        int a=100;
-
-        int b=200;
+        String time = "20202020";
 
     }
 }
